@@ -4,10 +4,10 @@
     <label>Blitz_Testing_Profile1</label>
     <objectPermissions>
         <allowCreate>true</allowCreate>
-        <allowDelete>false</allowDelete>
-        <allowEdit>false</allowEdit>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
-        <modifyAllRecords>false</modifyAllRecords>
+        <modifyAllRecords>true</modifyAllRecords>
         <object>Blitz_Test__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
