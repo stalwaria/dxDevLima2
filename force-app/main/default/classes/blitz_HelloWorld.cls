@@ -1,8 +1,8 @@
 public class blitz_HelloWorld {
-    public void helloWorld() {
+    public static void helloWorld() {
         System.debug('Hello World US2!');
     }
-    public void greet() {
+    public static void greet() {
         System.debug('Good morning user!');
     }
 }
