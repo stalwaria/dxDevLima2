@@ -7,11 +7,4 @@
         <shortDescription>test1</shortDescription>
         <value>test1</value>
     </labels>
-    <labels>
-        <fullName>test2</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>test2</shortDescription>
-        <value>test2</value>
-    </labels>
 </CustomLabels>
