@@ -1,0 +1,159 @@
+2022-01-27 08:53:32 UTC	CopadoFunctionINFO download file=/tmp/0687Q00000091SPQAY.Copado Commit changes.json
+2022-01-27 08:53:32 UTC	CopadoFunctionINFO setting status 'Encoding Metadata'
+2022-01-27 08:53:32 UTC	commited_name: de
+2022-01-27 08:53:32 UTC	commited_name: KompalTestLabel
+2022-01-27 08:53:32 UTC	[{"t":"Translations","n":"de","m":"force-app/main/default/","c":"","a":"Add"},{"t":"CustomLabel","n":"KompalTestLabel","m":"force-app/main/default/","c":"","a":"Add"}]
+2022-01-27 08:53:32 UTC	CopadoFunctionINFO setting status 'Retrieving the metadata'
+2022-01-27 08:53:32 UTC	CopadoFunctionINFO download file=/tmp/0687Q00000091SPQAY.Copado Commit changes.json
+2022-01-27 08:53:32 UTC	CopadoFunctionINFO setting status 'Preparing sfdx project configuration'
+2022-01-27 08:53:32 UTC	CopadoFunctionINFO setting status 'Retrieving the metadata'
+2022-01-27 08:53:32 UTC	{
+2022-01-27 08:53:32 UTC	  "status": 0,
+2022-01-27 08:53:32 UTC	  "result": {
+2022-01-27 08:53:32 UTC	    "inboundFiles": [
+2022-01-27 08:53:32 UTC	      {
+2022-01-27 08:53:32 UTC	        "fullName": "de",
+2022-01-27 08:53:32 UTC	        "type": "Translations",
+2022-01-27 08:53:32 UTC	        "state": "Created",
+2022-01-27 08:53:32 UTC	        "filePath": "/app/retrieve/force-app/main/default/translations/de.translation-meta.xml"
+2022-01-27 08:53:32 UTC	      },
+2022-01-27 08:53:32 UTC	      {
+2022-01-27 08:53:32 UTC	        "fullName": "CustomLabels",
+2022-01-27 08:53:32 UTC	        "type": "CustomLabels",
+2022-01-27 08:53:32 UTC	        "state": "Created",
+2022-01-27 08:53:32 UTC	        "filePath": "/app/retrieve/force-app/main/default/labels/CustomLabels.labels-meta.xml"
+2022-01-27 08:53:32 UTC	      }
+2022-01-27 08:53:32 UTC	    ],
+2022-01-27 08:53:32 UTC	    "packages": [],
+2022-01-27 08:53:33 UTC	    "warnings": [],
+2022-01-27 08:53:33 UTC	    "response": {
+2022-01-27 08:53:33 UTC	      "done": true,
+2022-01-27 08:53:33 UTC	      "fileProperties": [
+2022-01-27 08:53:33 UTC	        {
+2022-01-27 08:53:33 UTC	          "createdById": "0055g00000DkdRVAAZ",
+2022-01-27 08:53:33 UTC	          "createdByName": "Konstantin Heidt",
+2022-01-27 08:53:33 UTC	          "createdDate": "2022-01-27T08:53:17.837Z",
+2022-01-27 08:53:33 UTC	          "fileName": "unpackaged/labels/CustomLabels.labels",
+2022-01-27 08:53:33 UTC	          "fullName": "CustomLabels",
+2022-01-27 08:53:33 UTC	          "id": "000000000000000AAA",
+2022-01-27 08:53:33 UTC	          "lastModifiedById": "0055g00000DkdRVAAZ",
+2022-01-27 08:53:33 UTC	          "lastModifiedByName": "Konstantin Heidt",
+2022-01-27 08:53:33 UTC	          "lastModifiedDate": "2022-01-27T08:53:17.837Z",
+2022-01-27 08:53:33 UTC	          "type": "CustomLabels"
+2022-01-27 08:53:33 UTC	        },
+2022-01-27 08:53:33 UTC	        {
+2022-01-27 08:53:33 UTC	          "createdById": "0055g00000DkdRVAAZ",
+2022-01-27 08:53:33 UTC	          "createdByName": "Konstantin Heidt",
+2022-01-27 08:53:33 UTC	          "createdDate": "2022-01-27T08:44:52.000Z",
+2022-01-27 08:53:33 UTC	          "fileName": "unpackaged/translations/de.translation",
+2022-01-27 08:53:33 UTC	          "fullName": "de",
+2022-01-27 08:53:33 UTC	          "id": "01h1y0000004TnAAAU",
+2022-01-27 08:53:33 UTC	          "lastModifiedById": "0055g00000DkdRVAAZ",
+2022-01-27 08:53:33 UTC	          "lastModifiedByName": "Konstantin Heidt",
+2022-01-27 08:53:33 UTC	          "lastModifiedDate": "2022-01-27T08:44:52.000Z",
+2022-01-27 08:53:33 UTC	          "manageableState": "unmanaged",
+2022-01-27 08:53:33 UTC	          "type": "Translations"
+2022-01-27 08:53:33 UTC	        },
+2022-01-27 08:53:33 UTC	        {
+2022-01-27 08:53:33 UTC	          "createdById": "0055g00000DkdRVAAZ",
+2022-01-27 08:53:33 UTC	          "createdByName": "Konstantin Heidt",
+2022-01-27 08:53:33 UTC	          "createdDate": "2022-01-27T08:53:18.613Z",
+2022-01-27 08:53:33 UTC	          "fileName": "unpackaged/package.xml",
+2022-01-27 08:53:33 UTC	          "fullName": "unpackaged/package.xml",
+2022-01-27 08:53:33 UTC	          "id": "",
+2022-01-27 08:53:33 UTC	          "lastModifiedById": "0055g00000DkdRVAAZ",
+2022-01-27 08:53:33 UTC	          "lastModifiedByName": "Konstantin Heidt",
+2022-01-27 08:53:33 UTC	          "lastModifiedDate": "2022-01-27T08:53:18.613Z",
+2022-01-27 08:53:33 UTC	          "manageableState": "unmanaged",
+2022-01-27 08:53:33 UTC	          "type": "Package"
+2022-01-27 08:53:33 UTC	        }
+2022-01-27 08:53:33 UTC	      ],
+2022-01-27 08:53:33 UTC	      "id": "09S1y000000bq82EAA",
+2022-01-27 08:53:33 UTC	      "status": "Succeeded",
+2022-01-27 08:53:33 UTC	      "success": true
+2022-01-27 08:53:33 UTC	    }
+2022-01-27 08:53:33 UTC	  }
+2022-01-27 08:53:33 UTC	}
+2022-01-27 08:53:33 UTC	 |-retrieve
+2022-01-27 08:53:33 UTC	 | |-.sfdx
+2022-01-27 08:53:33 UTC	 | | |-sfdx-config.json
+2022-01-27 08:53:33 UTC	 | |-force-app
+2022-01-27 08:53:33 UTC	 | | |-main
+2022-01-27 08:53:33 UTC	 | | | |-default
+2022-01-27 08:53:33 UTC	 | | | | |-labels
+2022-01-27 08:53:33 UTC	 | | | | | |-CustomLabels.labels-meta.xml
+2022-01-27 08:53:33 UTC	 | | | | |-translations
+2022-01-27 08:53:33 UTC	 | | | | | |-de.translation-meta.xml
+2022-01-27 08:53:33 UTC	 | |-sfdx-project.json
+2022-01-27 08:53:33 UTC	CopadoFunctionINFO setting status 'Cleanup config files'
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.functions.core.commands.core.command.impl.CommandRunner - Substitution type  'value'  override --> 'name'.
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.functions.core.commands.core.command.impl.CommandRunner - No duplicates allowed. Performing check...
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.functions.core.commands.core.command.impl.CommandRunner - No duplicates found.
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.functions.core.commands.core.command.impl.CommandRunner - Exclusion list set to:
+2022-01-27 08:53:33 UTC	No yaml file found
+2022-01-27 08:53:33 UTC	CopadoFunctionINFO setting status 'Fetching Git branches: feature/US-0000071'
+2022-01-27 08:53:33 UTC	CopadoFunction INFO fetching/checking-out branch 'main' in directory '.'
+2022-01-27 08:53:33 UTC	From https://github.com/***/Sprint22.blitz5REPO
+2022-01-27 08:53:33 UTC	 * branch            main       -> FETCH_HEAD
+2022-01-27 08:53:33 UTC	 * [new branch]      main       -> origin/main
+2022-01-27 08:53:33 UTC	Branch 'main' set up to track remote branch 'main' from 'origin'.
+2022-01-27 08:53:33 UTC	Switched to a new branch 'main'
+2022-01-27 08:53:33 UTC	CopadoFunctionINFO setting status 'Fetching/creating branch feature/US-0000071'
+2022-01-27 08:53:33 UTC	CopadoFunction INFO fetching/checking-out branch 'feature/US-0000071' in directory '.'
+2022-01-27 08:53:33 UTC	fatal: couldn't find remote ref feature/US-0000071
+2022-01-27 08:53:33 UTC	Switched to a new branch 'feature/US-0000071'
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.metadatacache.MetadataCacheGenerator -  inside generateMapping new
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.metadatacache.MetadataCacheGenerator -  inside generateMapping new
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.metadatacache.MetadataCacheGenerator -  inside generateMapping new
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - Entering entityToFile with absolutePath value -1
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - Metadata of tyoe -Translationskind -
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - pathretrieved -translations/<name>.translation
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - path being returned -force-app/main/default/translations/de.translation
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - final path - /app/retrieve/force-app/main/default/translations/de.translation
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - Simple metadata of Type -Translations
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - Send Absolute path
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - pathList returned - [/app/retrieve/force-app/main/default/translations/de.translation-meta.xml]
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - Entering entityToFile with absolutePath value -1
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - Metadata of tyoe -CustomLabelkind -label
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - pathretrieved -labels/CustomLabels.labels
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - path being returned -force-app/main/default/labels/CustomLabels.labels
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - final path - /app/retrieve/force-app/main/default/labels/CustomLabels.labels
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - Simple metadata of Type -CustomLabel
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - Send Absolute path
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - pathList returned - [/app/retrieve/force-app/main/default/labels/CustomLabels.labels-meta.xml]
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.functions.commands.dx.metadataprocessor.service.service.NestedMetadataProcessorServiceImpl - Inside updateChangeMetadataPath : calling FileMapperService with MappedmetadataMappedMetadata(name=KompalTestLabel, type=CustomLabel, module=force-app/main/default/)
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - Metadata of tyoe -CustomLabelkind -label
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - pathretrieved -labels/CustomLabels.labels
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - path being returned -force-app/main/default/labels/CustomLabels.labels
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.functions.commands.dx.metadataprocessor.service.service.NestedMetadataProcessorServiceImpl - Path received from FileMapper -force-app/main/default/labels/CustomLabels.labels
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.functions.commands.dx.metadataprocessor.service.service.NestedMetadataProcessorServiceImpl - Inside updateChangeMetadataPath : calling FileMapperService with MappedmetadataMappedMetadata(name=de, type=Translations, module=force-app/main/default/)
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - Metadata of tyoe -Translationskind -
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - pathretrieved -translations/<name>.translation
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - path being returned -force-app/main/default/translations/de.translation
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.functions.commands.dx.metadataprocessor.service.service.NestedMetadataProcessorServiceImpl - Path received from FileMapper -force-app/main/default/translations/de.translation
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.functions.commands.dx.metadataprocessor.service.service.NestedMetadataProcessorServiceImpl - processOrMerge sourceDirectory -/tmp/tmpFolder7354097872663648988 targetDirectory /app/repository
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.functions.commands.dx.metadataprocessor.service.utils.HelperUtil - Inside copyTo : sourceFile -/tmp/tmpFolder7354097872663648988/force-app/main/default/labels/CustomLabels.labels-meta.xml destinationPath -/app/repository/force-app/main/default/labels/CustomLabels.labels-meta.xml
+2022-01-27 08:53:33 UTC	[main] INFO com.copado.functions.commands.dx.metadataprocessor.service.utils.HelperUtil - Inside copyTo : sourceFile -/tmp/tmpFolder7354097872663648988/force-app/main/default/translations/de.translation-meta.xml destinationPath -/app/repository/force-app/main/default/translations/de.translation-meta.xml
+2022-01-27 08:53:34 UTC	[main] INFO com.copado.functions.commands.dx.metadataprocessor.service.utils.HelperUtil - Destination Path does not exist copying source to destination
+2022-01-27 08:53:34 UTC	[main] INFO com.copado.functions.commands.dx.metadataprocessor.service.utils.HelperUtil - Check if Parent Metadata Handling Needed
+2022-01-27 08:53:34 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - Metadata of tyoe -CustomLabelskind -label
+2022-01-27 08:53:34 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - pathretrieved -labels/CustomLabels.labels
+2022-01-27 08:53:34 UTC	[main] INFO com.copado.core.filemapper.service.MetadataMapperServiceImpl - path being returned -force-app/main/default/labels/CustomLabels.labels
+2022-01-27 08:53:34 UTC	[main] INFO com.copado.functions.commands.dx.metadataprocessor.service.utils.HelperUtil - Added Parent Metadata for nested handling Change(name=CustomLabels, type=CustomLabels, modulePath=force-app/main/default/labels/CustomLabels.labels-meta.xml, action=null, category=null, jsonAdditionalInfo=null)
+2022-01-27 08:53:34 UTC	[main] INFO com.copado.functions.commands.dx.metadataprocessor.core.facade.mdapi.NestedComponentsFacadeImpl - Starting Process Flow
+2022-01-27 08:53:34 UTC	[main] INFO com.copado.functions.commands.dx.metadataprocessor.core.facade.mdapi.NestedComponentsFacadeImpl - Processing :de
+2022-01-27 08:53:34 UTC	java.lang.RuntimeException: Error :com.copado.functions.commands.dx.metadataprocessor.core.exception.MetadataXMLParsingException: com.sforce.ws.ConnectionException: unable to find end tag at:  START_TAG seen ...<fields>\n                    <inputParameters>... @9413:38
+2022-01-27 08:53:34 UTC		at com.copado.functions.commands.dx.metadataprocessor.core.facade.mdapi.MetadataFactory.load(MetadataFactory.java:50)
+2022-01-27 08:53:34 UTC		at com.copado.functions.commands.dx.metadataprocessor.core.facade.mdapi.NestedComponentsFacadeImpl.process(NestedComponentsFacadeImpl.java:58)
+2022-01-27 08:53:34 UTC		at com.copado.functions.commands.dx.metadataprocessor.service.service.NestedMetadataProcessorServiceImpl.process(NestedMetadataProcessorServiceImpl.java:61)
+2022-01-27 08:53:34 UTC		at com.copado.functions.commands.dx.metadataprocessor.command.command.impl.CommandRunner.call(CommandRunner.java:27)
+2022-01-27 08:53:34 UTC		at com.copado.functions.commands.dx.metadataprocessor.command.MetadataProcessorCommand.call(MetadataProcessorCommand.java:73)
+2022-01-27 08:53:34 UTC		at com.copado.functions.commands.dx.metadataprocessor.command.MetadataProcessorCommand.call(MetadataProcessorCommand.java:24)
+2022-01-27 08:53:34 UTC		at picocli.CommandLine.executeUserObject(CommandLine.java:1953)
+2022-01-27 08:53:34 UTC		at picocli.CommandLine.access$1300(CommandLine.java:145)
+2022-01-27 08:53:34 UTC		at picocli.CommandLine$RunLast.executeUserObjectOfLastSubcommandWithSameParent(CommandLine.java:2352)
+2022-01-27 08:53:34 UTC		at picocli.CommandLine$RunLast.handle(CommandLine.java:2346)
+2022-01-27 08:53:34 UTC		at picocli.CommandLine$RunLast.handle(CommandLine.java:2311)
+2022-01-27 08:53:34 UTC		at picocli.CommandLine$AbstractParseResultHandler.execute(CommandLine.java:2179)
+2022-01-27 08:53:34 UTC		at picocli.CommandLine.execute(CommandLine.java:2078)
+2022-01-27 08:53:34 UTC		at com.copado.functions.commands.dx.metadataprocessor.command.MetadataProcessorCommand.main(MetadataProcessorCommand.java:50)
