@@ -5,6 +5,10 @@
         <name>KompalCustom2</name>
     </customLabels>
     <customLabels>
+        <label>test@!#$</label>
+        <name>kompalComplTnsl</name>
+    </customLabels>
+    <customLabels>
         <label>Test@123</label>
         <name>kompalSpecial</name>
     </customLabels>

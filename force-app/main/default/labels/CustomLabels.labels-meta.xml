@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
-        <fullName>KompalCustom2</fullName>
+        <fullName>kompalComplTnsl</fullName>
         <categories>testing translation</categories>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>KompalCustom2</shortDescription>
-        <value>test german</value>
-    </labels>
-    <labels>
-        <fullName>kompalSpecial</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>kompalSpecialFinish</shortDescription>
-        <value>kompal fin</value>
+        <shortDescription>kompalComplTnsl</shortDescription>
+        <value>kompal @123</value>
     </labels>
 </CustomLabels>
