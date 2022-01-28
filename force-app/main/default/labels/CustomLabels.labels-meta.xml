@@ -8,4 +8,11 @@
         <shortDescription>KompalCustom2</shortDescription>
         <value>test german</value>
     </labels>
+    <labels>
+        <fullName>kompalSpecial</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>kompalSpecialFinish</shortDescription>
+        <value>kompal fin</value>
+    </labels>
 </CustomLabels>
