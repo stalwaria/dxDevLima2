@@ -5,6 +5,10 @@
         <name>KompalCustom2</name>
     </customLabels>
     <customLabels>
+        <label>kompal @!@#$</label>
+        <name>kompalComplTnsl</name>
+    </customLabels>
+    <customLabels>
         <label></label>
         <name>testkompal</name>
     </customLabels>
@@ -230,11 +234,11 @@
     </prompts>
     <quickActions>
         <label></label>
-        <name>NewAccount</name>
+        <name>LogACall</name>
     </quickActions>
     <quickActions>
         <label></label>
-        <name>LogACall</name>
+        <name>NewAccount</name>
     </quickActions>
     <quickActions>
         <label></label>
@@ -250,11 +254,11 @@
     </quickActions>
     <quickActions>
         <label></label>
-        <name>NewGroup</name>
+        <name>NewEvent</name>
     </quickActions>
     <quickActions>
         <label></label>
-        <name>NewEvent</name>
+        <name>NewGroup</name>
     </quickActions>
     <quickActions>
         <label></label>
@@ -266,11 +270,11 @@
     </quickActions>
     <quickActions>
         <label></label>
-        <name>NewTask</name>
+        <name>NewOpportunity</name>
     </quickActions>
     <quickActions>
         <label></label>
-        <name>NewOpportunity</name>
+        <name>NewTask</name>
     </quickActions>
     <reportTypes>
         <description></description>
