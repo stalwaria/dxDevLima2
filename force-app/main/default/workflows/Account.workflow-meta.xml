@@ -1,54 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fieldUpdates>
+    <alerts>
         <fullName>Test</fullName>
-        <field>BillingCountry</field>
-        <formula>&quot;INDIA&quot;</formula>
-        <name>Test</name>
-        <notifyAssignee>false</notifyAssignee>
-        <operation>Formula</operation>
+        <description>Test</description>
         <protected>false</protected>
-        <reevaluateOnChange>false</reevaluateOnChange>
-    </fieldUpdates>
-    <fieldUpdates>
-        <fullName>Test_alone</fullName>
-        <field>Name</field>
-        <formula>&quot;XYZ&quot;</formula>
-        <name>Test alone</name>
-        <notifyAssignee>false</notifyAssignee>
-        <operation>Formula</operation>
-        <protected>false</protected>
-        <reevaluateOnChange>false</reevaluateOnChange>
-    </fieldUpdates>
-    <outboundMessages>
-        <fullName>Test</fullName>
-        <apiVersion>53.0</apiVersion>
-        <endpointUrl>https://www.google.com</endpointUrl>
-        <fields>AccountSource</fields>
-        <fields>BillingCity</fields>
-        <fields>Id</fields>
-        <includeSessionId>false</includeSessionId>
-        <integrationUser>test-wimqs10syb6u@example.com</integrationUser>
-        <name>Test</name>
-        <protected>false</protected>
-        <useDeadLetterQueue>false</useDeadLetterQueue>
-    </outboundMessages>
-    <rules>
-        <fullName>Test</fullName>
-        <actions>
-            <name>Test</name>
-            <type>FieldUpdate</type>
-        </actions>
-        <actions>
-            <name>Test</name>
-            <type>OutboundMessage</type>
-        </actions>
-        <active>false</active>
-        <criteriaItems>
-            <field>Account.BillingCity</field>
-            <operation>equals</operation>
-            <value>Jaipur</value>
-        </criteriaItems>
-        <triggerType>onCreateOrTriggeringUpdate</triggerType>
-    </rules>
+        <recipients>
+            <recipient>insightssecurity@00d1f000000drv9uam.com</recipient>
+            <type>user</type>
+        </recipients>
+        <recipients>
+            <recipient>integration@00d1f000000drv9uam.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>unfiled$public/shiva_new_template_1643356119326</template>
+    </alerts>
 </Workflow>
