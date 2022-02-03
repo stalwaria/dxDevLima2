@@ -16,4 +16,11 @@
         <shortDescription>kompalComplTnsl</shortDescription>
         <value>kompal @123</value>
     </labels>
+    <labels>
+        <fullName>kompalSpecial</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>kompalSpecialFinish</shortDescription>
+        <value>kompal fin</value>
+    </labels>
 </CustomLabels>

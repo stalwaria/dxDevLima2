@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Translations xmlns="http://soap.sforce.com/2006/04/metadata">
     <customLabels>
+        <label></label>
+        <name>KompalCustom2</name>
+    </customLabels>
+    <customLabels>
+        <label></label>
+        <name>kompalComplTnsl</name>
+    </customLabels>
+    <customLabels>
+        <label></label>
+        <name>kompalSpecial</name>
+    </customLabels>
+    <customLabels>
         <label>hello</label>
         <name>testkompal</name>
     </customLabels>
@@ -226,15 +238,11 @@
     </prompts>
     <quickActions>
         <label></label>
-        <name>LogACall</name>
-    </quickActions>
-    <quickActions>
-        <label></label>
         <name>NewAccount</name>
     </quickActions>
     <quickActions>
         <label></label>
-        <name>NewCase</name>
+        <name>LogACall</name>
     </quickActions>
     <quickActions>
         <label></label>
@@ -242,15 +250,7 @@
     </quickActions>
     <quickActions>
         <label></label>
-        <name>NewEvent</name>
-    </quickActions>
-    <quickActions>
-        <label></label>
-        <name>NewGroup</name>
-    </quickActions>
-    <quickActions>
-        <label></label>
-        <name>NewLead</name>
+        <name>NewCase</name>
     </quickActions>
     <quickActions>
         <label></label>
@@ -258,7 +258,19 @@
     </quickActions>
     <quickActions>
         <label></label>
-        <name>NewOpportunity</name>
+        <name>NewGroup</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>NewEvent</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>NewLead</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>SendEmail</name>
     </quickActions>
     <quickActions>
         <label></label>
@@ -266,7 +278,7 @@
     </quickActions>
     <quickActions>
         <label></label>
-        <name>SendEmail</name>
+        <name>NewOpportunity</name>
     </quickActions>
     <reportTypes>
         <description></description>
