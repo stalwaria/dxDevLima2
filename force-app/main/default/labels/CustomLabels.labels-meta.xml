@@ -17,6 +17,14 @@
         <value>kompal @123</value>
     </labels>
     <labels>
+        <fullName>kompalDestr1</fullName>
+        <categories>testingdestr</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>kompalDestr1</shortDescription>
+        <value>ddfdfdf</value>
+    </labels>
+    <labels>
         <fullName>kompalSpecial</fullName>
         <language>en_US</language>
         <protected>true</protected>
