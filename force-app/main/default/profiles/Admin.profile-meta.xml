@@ -176,6 +176,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>KompalCustomObj1__c.KompalCustomfield2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Test_Cust_Obj1__c.Test_Cust_Field1__c</field>
         <readable>true</readable>
     </fieldPermissions>
