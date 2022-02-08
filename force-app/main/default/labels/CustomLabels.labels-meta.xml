@@ -8,4 +8,11 @@
         <shortDescription>kompalLabel4feb</shortDescription>
         <value>custom label comit</value>
     </labels>
+    <labels>
+        <fullName>v52_label</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>v52 label</shortDescription>
+        <value>123</value>
+    </labels>
 </CustomLabels>
