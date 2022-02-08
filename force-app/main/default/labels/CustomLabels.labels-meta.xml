@@ -31,4 +31,11 @@
         <shortDescription>kompalSpecialFinish</shortDescription>
         <value>kompal fin</value>
     </labels>
+    <labels>
+        <fullName>v52_label</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>v52 label</shortDescription>
+        <value>123</value>
+    </labels>
 </CustomLabels>
